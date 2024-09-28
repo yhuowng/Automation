@@ -1,0 +1,9 @@
+2024-07-24 23:47:40,736 :INFO : test_editProfile :Rahul
+2024-07-24 23:47:40,736 :INFO : test_editProfile :rahulshettyacademy.com
+2024-07-24 23:47:40,740 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-07-24 23:54:29,065 :INFO : test_editProfile :Rahul
+2024-07-24 23:54:29,066 :INFO : test_editProfile :rahulshettyacademy.com
+2024-07-24 23:54:29,074 :CRITICAL : pytestsDemo.test_logging :Critical issue
+2024-07-26 00:03:22,943 :INFO : test_editProfile :Rahul
+2024-07-26 00:03:22,943 :INFO : test_editProfile :rahulshettyacademy.com
+2024-07-26 00:03:22,953 :CRITICAL : pytestsDemo.test_logging :Critical issue
